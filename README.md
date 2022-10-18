@@ -22,7 +22,8 @@ Project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/
 ## Installation
 
 ```bash
-$ npm install or yarn
+$ npm install
+$ yarn
 ```
 
 ## Running the app
